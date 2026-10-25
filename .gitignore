@@ -1,0 +1,6 @@
+data/
+results/processed.h5ad
+__pycache__/
+.pytest_cache/
+*.pyc
+.ipynb_checkpoints/

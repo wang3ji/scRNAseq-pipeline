@@ -1,0 +1,48 @@
+{
+  "cells_loaded": {
+    "pbmc10k_v3": 11769,
+    "pbmc10k_nextgem": 11996
+  },
+  "cells_after_qc": {
+    "pbmc10k_v3": 10237,
+    "pbmc10k_nextgem": 10966
+  },
+  "cells_after_doublets": {
+    "pbmc10k_v3": 9757,
+    "pbmc10k_nextgem": 10426
+  },
+  "cluster_labels": {
+    "0": "cDC",
+    "1": "NK",
+    "2": "CD14 Mono",
+    "3": "CD14 Mono",
+    "4": "CD14 Mono",
+    "5": "B",
+    "6": "B",
+    "7": "CD4 T",
+    "8": "Progenitor",
+    "9": "CD4 T",
+    "10": "MAIT",
+    "11": "CD8 T",
+    "12": "CD14 Mono",
+    "13": "CD8 T",
+    "14": "pDC",
+    "15": "FCGR3A Mono",
+    "16": "CD4 T",
+    "17": "Platelet"
+  },
+  "cell_type_counts": {
+    "CD14 Mono": 6654,
+    "CD4 T": 5458,
+    "CD8 T": 2838,
+    "B": 2340,
+    "NK": 934,
+    "FCGR3A Mono": 661,
+    "MAIT": 617,
+    "cDC": 360,
+    "pDC": 144,
+    "Platelet": 125,
+    "Progenitor": 52
+  },
+  "pseudobulk_de": "skipped (needs 2+ samples per condition)"
+}

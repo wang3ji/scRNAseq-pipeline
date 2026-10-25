@@ -1,0 +1,16 @@
+name: scrnaseq
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - scanpy>=1.10
+      - anndata
+      - leidenalg
+      - igraph
+      - harmonypy
+      - pydeseq2>=0.5
+      - pyyaml
+      - scikit-misc
+      - scikit-image
+      - pytest
